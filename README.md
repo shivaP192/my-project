@@ -19,4 +19,4 @@ You can run the application in one of the following ways:
 Happy coding! 🙂
 
 
-imdb ptoject bu API (https://b8574k-3000.bytexl.dev/)
+imdb ptoject bu API ([https://b8574k-3000.bytexl.dev/](https://imdb132.bytexl.live/))
